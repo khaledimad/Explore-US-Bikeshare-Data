@@ -12,7 +12,6 @@ To complete this project, i'll require the following softwares:
 - A terminal application
 
 ## The Datasets
-
 The datasets provided by Motivate, a bike share system provider in the US, contains randomly selected data for the first six months of 2017 for all three cities. The data files for all three cities contain the same core six columns:
 
 - Start Time 
@@ -27,8 +26,8 @@ The Chicago and New York City files also have the following two columns:
 - Gender
 - Birth Year
 
-## The Questions
-Through writing code, I'm was able to answer the following questions about the bike share data:
+## Answering Questions
+Through writing code, I'm able to answer the following questions about the bike share data:
 
 - What month occurs most often in the start time?
 - What day of the week (Monday, Tuesday, etc.) occurs most often in the start time? 
@@ -42,7 +41,7 @@ Through writing code, I'm was able to answer the following questions about the b
 
 ![screen shot 2018-09-25 at 11 29 38 pm](https://user-images.githubusercontent.com/43564654/46038102-3f97f080-c11b-11e8-8417-c99f992afd86.png)
 
-# The Interactive Experience
+## The Interactive Experience
 For a more interactive experience, I wrote a script that took raw input in the terminal to present the statistics. Below screenshots show the results after requesting for information in Chicago for the month of January on Sunday:
 
 ![screen shot 2018-09-25 at 11 27 59 pm](https://user-images.githubusercontent.com/43564654/46038089-36a71f00-c11b-11e8-9066-806aa9826f49.png)
